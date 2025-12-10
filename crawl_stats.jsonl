@@ -1,0 +1,2 @@
+{"pages_200": 1000, "pages_crawled": 1221, "errors": 13, "redirects": 166, "queue_size": 32461, "domains": 186, "unique_content": 1000, "elapsed_seconds": 973.9888825416565, "rate_per_second": 1.026705764228506, "timestamp": "2025-12-10T05:19:54.985689"}
+{"pages_200": 2000, "pages_crawled": 2416, "errors": 20, "redirects": 238, "queue_size": 55403, "domains": 279, "unique_content": 2000, "elapsed_seconds": 1257.261503458023, "rate_per_second": 1.5907589586566668, "timestamp": "2025-12-10T05:24:38.258312"}

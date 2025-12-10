@@ -25,3 +25,8 @@ kvs_worker/
 │       └── cde789...
 └── pt-hosts/
     └── en.wikipedia.org
+
+POST /start   # Start crawling (optional: custom seeds, max_pages, etc.)
+POST /stop    # Stop crawling
+GET  /status  # Progress, rate, ETA, queue size
+GET  /stats   # Detailed stats (top domains, etc.)
